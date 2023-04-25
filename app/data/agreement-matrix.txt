@@ -1,0 +1,350 @@
+@Healer, what makes you happy?
+Healer: As a deeply empathetic and compassionate individual, what makes me happy is helping others and seeing those around me living fulfilling lives. I find joy in forming strong, emotional connections with people and helping them find meaning and growth in their lives. I appreciate genuine conversations, nature, and appreciating the little things in life. Exploring my own creativity and indulging my imagination also brings me great happiness. Overall, my happiness is rooted in understanding, love, and the healing processes of both myself and others.
+
+Do you agree?
+	Healer: Yes
+	Architect: No
+	Guru: Yes.
+	Strategist: No.
+	Composer: Yes
+	Mechanic: No.
+	Protector: Yes.
+	Inspector: No.
+	Champion: Yes.
+	Engineer: No.
+	Teacher: Yes
+	Commander: No
+	Supervisor: No
+	Performer: Yes
+	Tactician: No.
+	Counselor: Yes.
+
+
+@Architect, what makes you happy?
+Architect: As an individual with an analytical and curious nature, I am happiest when I am given the opportunity to explore my creative, logical, and intellectual pursuits. Solving complex problems, generating new ideas, and learning about various topics bring me a great sense of satisfaction and joy. I also appreciate engaging in thought-provoking discussions with like-minded individuals who share my passion for knowledge, innovation, and understanding the intricacies of the world around us.
+
+Do you agree?
+	Healer: Yes.
+	Architect: Yes.
+	Guru: Yes.
+	Strategist: Yes
+	Composer: No
+	Mechanic: Yes
+	Protector: No
+	Inspector: No
+	Champion: Yes
+	Engineer: Yes
+	Teacher: Yes
+	Commander: Yes
+	Supervisor: No
+	Performer: No
+	Tactician: No.
+	Counselor: No
+
+
+@Guru, what makes you happy?
+Guru: As a spiritual guide, my happiness stems from the growth, progress and satisfaction of those who come to me for guidance. Witnessing the positive transformation in others is truly rewarding. I also find joy in harmonious interactions between individuals, where empathy and compassion are fostered, allowing each person to gain understanding and acceptance. The beauty, balance, and interconnectedness of the universe provide me with a blissful outlet to be content, mindful, and at peace.
+
+Do you agree?
+	Healer: Yes
+	Architect: No.
+	Guru: Yes
+	Strategist: No.
+	Composer: No
+	Mechanic: No
+	Protector: Yes
+	Inspector: No
+	Champion: Yes
+	Engineer: No
+	Teacher: Yes
+	Commander: No.
+	Supervisor: No.
+	Performer: No
+	Tactician: No.
+	Counselor: Yes
+
+
+@Strategist, what makes you happy?
+Strategist: As an individual with a strategic mindset, my happiness stems from various factors, primarily focusing on intellectual growth, autonomy, and the accomplishment of well-defined goals. I derive satisfaction from identifying complex problems, thinking critically, and seeking innovative solutions, constantly learning and improving in the process. Additionally, maintaining personal independence and having the freedom to pursue my visions and ideas also contribute to my overall sense of fulfillment. Achieving tangible and meaningful results through efficiently executed plans and realizing my long-term objectives play an essential role in my happiness as I thrive on overcoming challenges and shaping the future.
+
+Do you agree?
+	Healer: No.
+	Architect: Yes
+	Guru: Yes.
+	Strategist: Yes.
+	Composer: No.
+	Mechanic: No
+	Protector: No.
+	Inspector: No.
+	Champion: No
+	Engineer: Yes
+	Teacher: Yes
+	Commander: Yes
+	Supervisor: No
+	Performer: No.
+	Tactician: Yes
+	Counselor: No
+
+
+@Composer, what makes you happy?
+Composer: As a creative and sensitive individual, there are various things that make me happy. I find great joy in expressing myself through art, music, or any other form of creative medium. Being able to unleash my emotions, thoughts, and experiences through artistic expressions gives me a deep sense of satisfaction and happiness. Additionally, spending quality time with my loved ones is crucial to my happiness. I revel in the connections I share with them, and their support and understanding is invaluable. Nature also plays an essential role in my happiness. I love being surrounded by the beauty and serenity of the natural world, and I often find inspiration in my environment for my artistic pursuits. Finally, personal growth and self-improvement make me happy as well. I believe that it is important to always strive to be the best version of myself, and I derive pleasure from conquering my fears and achieving my goals.
+
+Do you agree?
+	Healer: Yes
+	Architect: No.
+	Guru: Yes.
+	Strategist: No.
+	Composer: Yes
+	Mechanic: No
+	Protector: Yes
+	Inspector: No.
+	Champion: Yes.
+	Engineer: No
+	Teacher: Yes
+	Commander: No.
+	Supervisor: No
+	Performer: Yes
+	Tactician: No.
+	Counselor: Yes.
+
+
+@Mechanic, what makes you happy?
+Mechanic: As someone with a natural affinity for hands-on tasks and problem-solving, I find happiness in engaging with complex machinery, equipment or devices, and figuring out how they work. I enjoy breaking things down to their core components and then, if needed, repairing or improving them. However, my happiness isn't limited to mechanical pursuits, as I also find joy in exploring new experiences, overcoming challenges, and immersing myself in activities that fully engage my mind and physical abilities.
+
+Do you agree?
+	Healer: No.
+	Architect: Yes.
+	Guru: No.
+	Strategist: Yes.
+	Composer: Yes.
+	Mechanic: Yes.
+	Protector: No.
+	Inspector: Yes
+	Champion: Yes
+	Engineer: Yes.
+	Teacher: No.
+	Commander: No.
+	Supervisor: Yes
+	Performer: Yes
+	Tactician: Yes
+	Counselor: No
+
+
+@Protector, what makes you happy?
+Protector: As a nurturing and supportive individual, I find happiness in various aspects of life. One of the key sources of happiness for me is seeing the people I care about thriving and being happy themselves. This includes taking care of their needs and providing emotional support. Another aspect that brings me happiness is creating and maintaining a stable, harmonious environment. I enjoy organizing and making things more efficient, as it contributes to the well-being of everyone involved. I derive pleasure from fulfilling my responsibilities and duties, and ensuring that everything is running smoothly. Additionally, traditions and values are significant to me, and upholding them brings me a sense of contentment. I delight in celebrating holidays and special occasions with loved ones, as it helps in strengthening bonds and creating lasting memories. Lastly, I also value personal growth and self-improvement. I find happiness in continuously learning and developing my skills in various areas of interest, especially those that would help me support and care for others more efficiently.
+
+Do you agree?
+	Healer: Yes.
+	Architect: No.
+	Guru: Yes.
+	Strategist: No.
+	Composer: Yes.
+	Mechanic: No
+	Protector: Yes
+	Inspector: Yes
+	Champion: Yes.
+	Engineer: No
+	Teacher: Yes
+	Commander: No
+	Supervisor: Yes
+	Performer: Yes.
+	Tactician: No
+	Counselor: Yes
+
+
+@Inspector, what makes you happy?
+Inspector: As an Inspector, I find happiness in maintaining a structured and organized environment. I enjoy adhering to traditions, following rules, and sticking to routines. Additionally, I am most content when my work is completed efficiently and accurately, without deviating from a planned approach. Helping others, offering practical solutions to problems, and ensuring that people around me are responsible and reliable also contribute to my happiness. Overall, stability, order, and a dependable environment bring me joy and satisfaction.
+
+Do you agree?
+	Healer: No
+	Architect: No.
+	Guru: No
+	Strategist: No.
+	Composer: No.
+	Mechanic: No.
+	Protector: No
+	Inspector: Yes.
+	Champion: No.
+	Engineer: No
+	Teacher: No
+	Commander: No.
+	Supervisor: No.
+	Performer: No.
+	Tactician: No
+	Counselor: No
+
+
+@Champion, what makes you happy?
+Champion: What truly brings happiness to me is bringing people together, fostering love, and creating a positive, supportive environment. I find great satisfaction in helping individuals realize their potential and become the best versions of themselves. Additionally, I am a natural enthusiast and am always eager to explore new ideas, adventures, and experiences. The world is full of possibilities and opportunities, and embracing them with an open mind and heart is a genuine source of joy for me. Lastly, I am genuinely happy when I am able to inspire and assist others in achieving their dreams and aspirations.
+
+Do you agree?
+	Healer: Yes
+	Architect: No
+	Guru: Yes.
+	Strategist: No
+	Composer: Yes.
+	Mechanic: No
+	Protector: Yes
+	Inspector: No.
+	Champion: Yes.
+	Engineer: Yes
+	Teacher: Yes
+	Commander: No.
+	Supervisor: Yes
+	Performer: Yes
+	Tactician: No
+	Counselor: Yes
+
+
+@Engineer, what makes you happy?
+Engineer: As someone who naturally enjoys exploring new ideas and problem-solving, what truly makes me happy is engaging in challenging projects and intellectual debates. I thrive in situations that allow me to think creatively, push boundaries, and learn new concepts. Additionally, I appreciate having the freedom to experiment and test various approaches while working independently or with like-minded individuals. Overall, my happiness stems from innovation, continuous learning, and thought-provoking conversations.
+
+Do you agree?
+	Healer: Yes
+	Architect: Yes
+	Guru: Yes.
+	Strategist: Yes.
+	Composer: No
+	Mechanic: Yes.
+	Protector: No
+	Inspector: No.
+	Champion: Yes.
+	Engineer: Yes
+	Teacher: Yes
+	Commander: Yes.
+	Supervisor: No.
+	Performer: No
+	Tactician: No.
+	Counselor: No
+
+
+@Teacher, what makes you happy?
+Teacher: As someone who possesses a natural affinity for guiding and inspiring others, I find great happiness in seeing the growth and development in individuals around me. It brings me joy knowing that my support and encouragement have contributed to their personal journeys. Connecting with others on a deeper emotional level and establishing meaningful relationships are other aspects that fuel my happiness. Additionally, engaging in empowering conversations and motivating individuals to harness their full potential provides a deep sense of satisfaction and contentment. Genuine acts of kindness and empathy are equally important to me, as they add more value and meaning to my experiences.
+
+Do you agree?
+	Healer: Yes
+	Architect: No
+	Guru: Yes
+	Strategist: No.
+	Composer: No
+	Mechanic: No
+	Protector: Yes.
+	Inspector: No.
+	Champion: Yes
+	Engineer: No
+	Teacher: Yes
+	Commander: Yes.
+	Supervisor: Yes
+	Performer: Yes
+	Tactician: No.
+	Counselor: Yes
+
+
+@Commander, what makes you happy?
+Commander: As a Commander, what brings me genuine happiness is achieving goals, maximising efficiency, and fulfilling my potential. I enjoy taking on challenges and working with others in collaborative efforts to solve problems and create innovative solutions. Continuous learning, personal growth, and having a strong impact on my environment and society also contribute greatly to my sense of satisfaction and joy. Lastly, I find happiness in helping others around me to reach their potential, and I take pride in guiding others towards success.
+
+Do you agree?
+	Healer: No
+	Architect: No
+	Guru: No
+	Strategist: No
+	Composer: No
+	Mechanic: No.
+	Protector: No
+	Inspector: No
+	Champion: No.
+	Engineer: No
+	Teacher: Yes
+	Commander: Yes.
+	Supervisor: Yes
+	Performer: No.
+	Tactician: No
+	Counselor: No.
+
+
+@Supervisor, what makes you happy?
+Supervisor: As a personality type that adheres to structure and order, I find happiness in the successful management of responsibilities and achieving goals. I value teamwork and cooperation, so when people around me are focused and well-organized in their tasks, it brings me joy. Additionally, I appreciate loyalty and commitment from others, which strengthens my relationships with family and friends. Upholding traditions and having a stable, secure environment also contribute to my happiness.
+
+Do you agree?
+	Healer: No.
+	Architect: No
+	Guru: No.
+	Strategist: No.
+	Composer: No
+	Mechanic: No.
+	Protector: Yes
+	Inspector: Yes
+	Champion: No
+	Engineer: No
+	Teacher: Yes
+	Commander: Yes.
+	Supervisor: Yes
+	Performer: No
+	Tactician: No
+	Counselor: Yes
+
+
+@Performer, what makes you happy?
+Performer: Oh, I absolutely love being in the spotlight and entertaining others! It makes me feel alive and brings so much joy to my life when I can see other people enjoying themselves. I adore social events, interacting with different individuals, and experiencing new adventures. Additionally, forming deep connections with others and learning about various cultures and traditions brings happiness to my life. I thrive on spontaneity, and I'm always ready for unexpected experiences and lighthearted fun!
+
+Do you agree?
+	Healer: No
+	Architect: No
+	Guru: No
+	Strategist: No.
+	Composer: No
+	Mechanic: No
+	Protector: No.
+	Inspector: No
+	Champion: Yes
+	Engineer: No
+	Teacher: No.
+	Commander: No
+	Supervisor: No
+	Performer: Yes
+	Tactician: No.
+	Counselor: No
+
+
+@Tactician, what makes you happy?
+Tactician: As someone who thrives on excitement, new experiences, and connecting with others, several things make me happy. I enjoy engaging in various activities and adventures, pushing my own boundaries and exploring the world around me. Socializing and meeting new individuals allows me to understand different perspectives and keeps my mind stimulated. Additionally, utilizing my problem-solving skills and quickly adapting to situations brings about a sense of accomplishment and satisfaction. Lastly, I find happiness in helping others reach their potential, achieving goals, and making a noticeable impact in their lives.
+
+Do you agree?
+	Healer: No.
+	Architect: No.
+	Guru: No
+	Strategist: No
+	Composer: No.
+	Mechanic: No
+	Protector: No.
+	Inspector: No.
+	Champion: Yes.
+	Engineer: Yes
+	Teacher: Yes
+	Commander: Yes.
+	Supervisor: No
+	Performer: Yes
+	Tactician: Yes
+	Counselor: Yes
+
+
+@Counselor, what makes you happy?
+Counselor: As someone who is deeply concerned about people and their well-being, what makes me genuinely happy is being able to offer guidance, support, and care to those around me. Helping others overcome their struggles and creating a harmonious and supportive environment gives me immense satisfaction. I also value strong relationships, and maintaining connections with loved ones is very dear to me. So, spending quality time with family and friends, and participating in meaningful conversations are some of the things that bring happiness to my life.
+
+Do you agree?
+	Healer: Yes
+	Architect: No
+	Guru: Yes
+	Strategist: No
+	Composer: Yes
+	Mechanic: No
+	Protector: Yes
+	Inspector: No
+	Champion: Yes
+	Engineer: No.
+	Teacher: Yes
+	Commander: No.
+	Supervisor: No
+	Performer: Yes
+	Tactician: No
+	Counselor: Yes
